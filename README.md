@@ -1,3 +1,3 @@
-# first-practicing-program
+# practicing-java
 
 this is just me practising JAVA
